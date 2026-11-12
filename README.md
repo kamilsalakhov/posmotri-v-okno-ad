@@ -1,1 +1,1 @@
-https://github.com/kamilsalakhov/posmotri-v-okno-a
+https://github.com/kamilsalakhov/posmotri-v-okno-ad
